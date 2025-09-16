@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 8b2001e3a28114eb28c0e0ed16c99702
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 8
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316877
+  packageName: AI Sound Generator
+  packageVersion: 1.0.0
+  assetPath: Assets/RK Studios/AI Sound Generator/Editor/Sound Effects/Library/20250410010705_viking_chant_with_mighty_male__1.mp3
+  uploadId: 754720

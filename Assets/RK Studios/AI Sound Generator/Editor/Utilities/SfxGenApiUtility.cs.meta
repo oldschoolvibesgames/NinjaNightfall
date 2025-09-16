@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ed509df9275c44ceb0ba1996bc77b60e
+timeCreated: 1744069251
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316877
+  packageName: AI Sound Generator
+  packageVersion: 1.0.0
+  assetPath: Assets/RK Studios/AI Sound Generator/Editor/Utilities/SfxGenApiUtility.cs
+  uploadId: 754720

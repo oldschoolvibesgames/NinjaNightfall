@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/SplashScreen.unity
+    guid: 7b96552fd1198fa4eaae54a2f975645e
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/LoadingScreen.unity
+    guid: 888394d52616e5e42b3b54c3f2bbd3eb
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/StartScreen.unity
+    guid: b9cf7e391a5874f80a0485164885fe54
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/Story/Story1.unity
+    guid: e61030973f81c5b4fb9a1dbe7268d2ae
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/Levels/1.unity
+    guid: 80932e4073f6350448114be1beb64cdf
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/Levels/2.unity
+    guid: f0d8cd66ec9cf5346b1839e05b9be03c
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/Levels/3.unity
+    guid: f0e8ee6fea9d4444da23a3475d329767
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/Levels/4.unity
+    guid: bf4010050e9c4e84fb0af28bdd557687
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/Levels/5.unity
+    guid: ac24e7775b4adc246ba4ae96238ff463
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/Levels/6.unity
+    guid: 25c4e9fd562133c49aa16ce367f5e55f
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/Levels/7.unity
+    guid: 7bbd7212bb581764ba87fa84e37caf84
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/Levels/8.unity
+    guid: e17bb1508a2fa504c8929585d8899201
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/Levels/9.unity
+    guid: d32d8de3c0fab5c41beb671db2ef3e82
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/Levels/10.unity
+    guid: debc9ace48a312340a16a2b49029a1af
+  - enabled: 1
+    path: Assets/- Primal Dungeon Adventure/Scenes/EndGame.unity
+    guid: 41c985e6e3b75554f84de6bfc6fd5f29
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

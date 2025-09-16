@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 99eafdbb0906455798543326317c7f9f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316877
+  packageName: AI Sound Generator
+  packageVersion: 1.0.0
+  assetPath: Assets/RK Studios/AI Sound Generator/Editor/Data/settings.json
+  uploadId: 754720
