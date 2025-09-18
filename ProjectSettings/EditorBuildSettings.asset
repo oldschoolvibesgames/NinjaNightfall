@@ -5,50 +5,58 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/- Xbox/Scenes/Logo.unity
+    guid: 24009552867745f4ab41a7fc3dcd5cc9
+  - enabled: 0
+    path: Assets/- Xbox/Scenes/SignIn.unity
+    guid: e39846cb488331a41b355e9d9a3b88b8
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/SplashScreen.unity
+    path: Assets/_Emerald-Huntress/Scenes/SplashScreen.unity
     guid: 7b96552fd1198fa4eaae54a2f975645e
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/LoadingScreen.unity
+    path: Assets/_Emerald-Huntress/Scenes/LoadingScreen.unity
     guid: 888394d52616e5e42b3b54c3f2bbd3eb
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/StartScreen.unity
+    path: Assets/_Emerald-Huntress/Scenes/StartScreen.unity
     guid: b9cf7e391a5874f80a0485164885fe54
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/Story/Story1.unity
+    path: Assets/_Emerald-Huntress/Scenes/Story/Story1.unity
     guid: e61030973f81c5b4fb9a1dbe7268d2ae
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/Levels/1.unity
-    guid: 80932e4073f6350448114be1beb64cdf
+    path: Assets/_Emerald-Huntress/Scenes/Levels/1.unity
+    guid: 45bd91f280e995f4cba980238e7e2216
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/Levels/2.unity
-    guid: f0d8cd66ec9cf5346b1839e05b9be03c
+    path: Assets/_Emerald-Huntress/Scenes/Levels/2.unity
+    guid: 02c98bd2a04f6ed4e9ded0d8796abe56
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/Levels/3.unity
-    guid: f0e8ee6fea9d4444da23a3475d329767
+    path: Assets/_Emerald-Huntress/Scenes/Levels/3.unity
+    guid: bd5d348d0e008ba45a3485a461cfed59
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/Levels/4.unity
-    guid: bf4010050e9c4e84fb0af28bdd557687
+    path: Assets/_Emerald-Huntress/Scenes/Levels/4.unity
+    guid: b137c932e56af9f4f9bdc26c64c25992
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/Levels/5.unity
-    guid: ac24e7775b4adc246ba4ae96238ff463
+    path: Assets/_Emerald-Huntress/Scenes/Levels/5.unity
+    guid: c84024ebb3e18e6489eab1fbc861292d
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/Levels/6.unity
-    guid: 25c4e9fd562133c49aa16ce367f5e55f
+    path: Assets/_Emerald-Huntress/Scenes/Levels/6.unity
+    guid: 7a1e38e4deb53b44bb38e6b441e3fd2c
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/Levels/7.unity
-    guid: 7bbd7212bb581764ba87fa84e37caf84
+    path: Assets/_Emerald-Huntress/Scenes/Levels/7.unity
+    guid: e2d0b679180ca8c4b9bc1e0ce248733d
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/Levels/8.unity
-    guid: e17bb1508a2fa504c8929585d8899201
+    path: Assets/_Emerald-Huntress/Scenes/Levels/8.unity
+    guid: 1ed92e287d93eaa4ba514477b458fde1
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/Levels/9.unity
-    guid: d32d8de3c0fab5c41beb671db2ef3e82
+    path: Assets/_Emerald-Huntress/Scenes/Levels/9.unity
+    guid: a88f65f5275fce642b0b32039ec3ec51
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/Levels/10.unity
-    guid: debc9ace48a312340a16a2b49029a1af
+    path: Assets/_Emerald-Huntress/Scenes/Levels/10.unity
+    guid: 60d760ce6e92503479fe32e39a124000
   - enabled: 1
-    path: Assets/- Ninja Night City/Scenes/EndGame.unity
+    path: Assets/_Emerald-Huntress/Scenes/EndGame.unity
     guid: 41c985e6e3b75554f84de6bfc6fd5f29
-  m_configObjects: {}
+  m_configObjects:
+    Unity.Microsoft.GDK.Editor.Settings: {fileID: 11400000, guid: 934fba8ac91dd0d41b8dd629b02fa112,
+      type: 2}
   m_UseUCBPForAssetBundles: 0

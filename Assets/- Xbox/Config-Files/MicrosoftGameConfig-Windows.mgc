@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  configVersion="1">
+  <Identity
+    Name="55328OldSchoolVibes.EmeraldHuntressWindows"
+    Publisher="CN=869DAB5A-1272-437B-A600-C720D8F08031"
+    Version="1.0.0.0" />
+  <ShellVisuals
+    DefaultDisplayName="Emerald Huntress (Windows)"
+    PublisherDisplayName="Old School Vibes"
+    StoreLogo="StoreLogo.png"
+    Square150x150Logo="Square150x150Logo.png"
+    Square44x44Logo="Square44x44Logo.png"
+    Square480x480Logo="Square480x480Logo.png"
+    Description="ms-resource:PackageDescription"
+    ForegroundText="light"
+    BackgroundColor="#000000"
+    SplashScreenImage="SplashScreenImage.png" />
+  <Resources>
+    <Resource
+      Language="en-US" />
+  </Resources>
+  <ExecutableList>
+    <Executable
+      Name="Emerald Huntress.exe"
+      Id="Game" />
+  </ExecutableList>
+  <StoreId>9NSMS5BJ5J9V</StoreId>
+  <MSAAppId>0000000041642F0E</MSAAppId>
+  <TitleId>604A0FC7</TitleId>
+  <ExtendedAttributeList>
+    <ExtendedAttribute
+      Name="SandboxIds"
+      Value="NDCFBG.0" />
+    <ExtendedAttribute
+      Name="Scid"
+      Value="00000000-0000-0000-0000-0000604a0fc7" />
+  </ExtendedAttributeList>
+  <DesktopRegistration>
+    <DependencyList>
+      <KnownDependency
+        Name="VC14" />
+    </DependencyList>
+  </DesktopRegistration>
+  <DevelopmentOnly />
+</Game>

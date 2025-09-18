@@ -158,9 +158,7 @@ namespace MoreMountains.CorgiEngine
 
 		/// the target frame rate for the game
 		[Tooltip("the target frame rate for the game")]
-		public int TargetFrameRate=60;
-
-		public bool VSync = true;
+		public int TargetFrameRate=300;
 
 		[Header("Lives")]
 
@@ -221,9 +219,6 @@ namespace MoreMountains.CorgiEngine
 		protected virtual void Start()
 		{
 			Application.targetFrameRate = TargetFrameRate;
-			if (VSync) QualitySettings.vSyncCount = 1;
-			else QualitySettings.vSyncCount = 0;
-			
 			_initialCurrentLives = CurrentLives;
 			_initialMaximumLives = MaximumLives;            
 		}

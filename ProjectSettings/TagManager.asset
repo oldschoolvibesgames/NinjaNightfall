@@ -8,8 +8,6 @@ TagManager:
   - Music
   - Background
   - NoMask
-  - Boss
-  - Enemy
   - Feet
   - Transition
   layers:
@@ -43,7 +41,7 @@ TagManager:
   - Pushables
   - Stairs
   - Bullet
-  - Collectible
+  - 
   - Trap
   m_SortingLayers:
   - name: Background
