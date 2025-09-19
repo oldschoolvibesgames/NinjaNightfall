@@ -5,12 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/- Xbox/Scenes/Logo.unity
-    guid: 24009552867745f4ab41a7fc3dcd5cc9
-  - enabled: 0
-    path: Assets/- Xbox/Scenes/SignIn.unity
-    guid: e39846cb488331a41b355e9d9a3b88b8
   - enabled: 1
     path: Assets/_Emerald-Huntress/Scenes/SplashScreen.unity
     guid: 7b96552fd1198fa4eaae54a2f975645e
@@ -56,7 +50,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Emerald-Huntress/Scenes/EndGame.unity
     guid: 41c985e6e3b75554f84de6bfc6fd5f29
-  m_configObjects:
-    Unity.Microsoft.GDK.Editor.Settings: {fileID: 11400000, guid: 934fba8ac91dd0d41b8dd629b02fa112,
-      type: 2}
+  m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
