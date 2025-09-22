@@ -5220,7 +5220,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.6, y: 1.64}
+  m_Size: {x: 0.35, y: 0.98}
   m_EdgeRadius: 0
 --- !u!114 &114993703828558004
 MonoBehaviour:
@@ -6120,7 +6120,7 @@ Transform:
   m_GameObject: {fileID: 1693914667617252}
   serializedVersion: 2
   m_LocalRotation: {x: -0.57249016, y: -0.41503623, z: 0.41503623, w: 0.57249016}
-  m_LocalPosition: {x: 0.486, y: -0.43499994, z: 0}
+  m_LocalPosition: {x: 0.095, y: 0.995, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -10965,7 +10965,7 @@ Transform:
   m_GameObject: {fileID: 1906052747890022}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.8342743, y: -0.12451577, z: 0}
+  m_LocalPosition: {x: 0.89, y: 0.92, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11053,7 +11053,7 @@ Transform:
   m_GameObject: {fileID: 245295307902020948}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.19499993, z: 0}
+  m_LocalPosition: {x: -0.089, y: 1.111, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -16205,7 +16205,7 @@ Transform:
   m_GameObject: {fileID: 810336491705141938}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.036, y: 0.942, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16315,7 +16315,7 @@ Transform:
   m_GameObject: {fileID: 879402194440249816}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.529, y: -0.771, z: 0}
+  m_LocalPosition: {x: -0.196, y: -0.793, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -21300,7 +21300,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: 1238502263
         Label: Particles Play
-        OriginalLabel: 
+        OriginalLabel: Particles Play
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -21387,7 +21387,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: -1714318377
         Label: Impulse
-        OriginalLabel: 
+        OriginalLabel: Cinemachine Impulse
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -21504,7 +21504,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: -504985784
         Label: Corgi Engine Sound
-        OriginalLabel: 
+        OriginalLabel: Corgi Engine Sound
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -21580,7 +21580,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: -1118072955
         Label: Bloom
-        OriginalLabel: 
+        OriginalLabel: Bloom
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -21813,7 +21813,7 @@ SpriteRenderer:
   m_SortingLayerID: -1628607475
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1784618512, guid: eaab6a61398b3044987a35ea5fbc1c7d, type: 3}
+  m_Sprite: {fileID: -1930074650, guid: 9adb30295b877144c8abb284e540ec27, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -32129,7 +32129,7 @@ Transform:
   m_GameObject: {fileID: 2346595479455188706}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.3, y: 1.99, z: 0}
+  m_LocalPosition: {x: 0.93, y: 1.34, z: 0}
   m_LocalScale: {x: 5, y: 4, z: 4}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -32265,7 +32265,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.7, y: 0.67}
   m_EdgeRadius: 0
 --- !u!114 &7672207393183154935
 MonoBehaviour:
@@ -42099,7 +42099,7 @@ Transform:
   m_GameObject: {fileID: 2761052416700806363}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.09600067, y: -0.50399995, z: 0}
+  m_LocalPosition: {x: 0.07, y: -0.35, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -47741,7 +47741,7 @@ Transform:
   m_GameObject: {fileID: 4746218574612134425}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.01, y: -0.896, z: 0}
+  m_LocalPosition: {x: -0.81, y: -0.806, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -57645,7 +57645,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: -1736563728
         Label: Particles Play
-        OriginalLabel: 
+        OriginalLabel: Particles Play
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -57732,7 +57732,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: 200440882
         Label: Impulse
-        OriginalLabel: 
+        OriginalLabel: Cinemachine Impulse
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -57849,7 +57849,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: 446165152
         Label: Corgi Engine Sound
-        OriginalLabel: 
+        OriginalLabel: Corgi Engine Sound
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -57946,7 +57946,7 @@ Transform:
   m_GameObject: {fileID: 5606079388146935345}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.09600067, y: -1.005, z: 0}
+  m_LocalPosition: {x: 0.12, y: -0.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -62976,7 +62976,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: 416238475
         Label: Particles Play
-        OriginalLabel: 
+        OriginalLabel: Particles Play
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -63062,7 +63062,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: 1266405502
         Label: Corgi Engine Sound
-        OriginalLabel: 
+        OriginalLabel: Corgi Engine Sound
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -63158,7 +63158,7 @@ Transform:
   m_GameObject: {fileID: 6134249480004949277}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.1, z: 0}
+  m_LocalPosition: {x: -0.01, y: 2.307, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -63291,7 +63291,7 @@ Transform:
   m_GameObject: {fileID: 6391132192395093632}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.42, y: 1.6, z: 0}
+  m_LocalPosition: {x: 0.81, y: 1.29, z: 0}
   m_LocalScale: {x: 5, y: 4, z: 4}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -63439,7 +63439,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.7, y: 0.69}
   m_EdgeRadius: 0
 --- !u!1 &6422680529375031297
 GameObject:
@@ -63468,7 +63468,7 @@ Transform:
   m_GameObject: {fileID: 6422680529375031297}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.09600067, y: 0.56, z: 0}
+  m_LocalPosition: {x: 0.09, y: 0.46, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -68497,7 +68497,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: -370043285
         Label: Particles Play
-        OriginalLabel: 
+        OriginalLabel: Particles Play
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -68583,7 +68583,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: -1165801602
         Label: Corgi Engine Sound
-        OriginalLabel: 
+        OriginalLabel: Corgi Engine Sound
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -68679,7 +68679,7 @@ Transform:
   m_GameObject: {fileID: 6498325481637634722}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.7551, z: 0}
+  m_LocalPosition: {x: -0.010002136, y: 1.6518999, z: 0}
   m_LocalScale: {x: 0.6, y: 0.13, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -68758,7 +68758,7 @@ Transform:
   m_GameObject: {fileID: 6672139166464619738}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.11, y: 1.0250001, z: 0}
+  m_LocalPosition: {x: -0.11, y: 2.03, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -73892,7 +73892,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: 1859871588
         Label: Particles Play
-        OriginalLabel: 
+        OriginalLabel: Particles Play
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -73978,7 +73978,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: 332068602
         Label: Corgi Engine Sound
-        OriginalLabel: 
+        OriginalLabel: Corgi Engine Sound
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -74054,7 +74054,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: 1868427947
         Label: Camera Shake
-        OriginalLabel: 
+        OriginalLabel: Camera Shake
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -74157,7 +74157,7 @@ Transform:
   m_GameObject: {fileID: 6977687719975995754}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.09600067, y: -0.895, z: 0}
+  m_LocalPosition: {x: 0.08, y: -1.72, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -79060,7 +79060,7 @@ Transform:
   m_GameObject: {fileID: 7052936929883001156}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.09600067, y: -0.50399995, z: 0}
+  m_LocalPosition: {x: 0.03, y: -0.34, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -83961,7 +83961,7 @@ Transform:
   m_GameObject: {fileID: 7150692073793825045}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.61500007, z: 0}
+  m_LocalPosition: {x: -0.071, y: 0.926, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -84313,7 +84313,7 @@ Transform:
   m_GameObject: {fileID: 7577119914185834610}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.24, y: -0.19499993, z: 0}
+  m_LocalPosition: {x: -0.4, y: 0.117, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -89215,7 +89215,7 @@ Transform:
   m_GameObject: {fileID: 7658176795179887187}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.1, y: 0.16, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -89342,7 +89342,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: 1914842876
         Label: Particles Play
-        OriginalLabel: 
+        OriginalLabel: Particles Play
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -89428,7 +89428,7 @@ MonoBehaviour:
         Active: 1
         UniqueID: 507652713
         Label: Corgi Engine Sound
-        OriginalLabel: 
+        OriginalLabel: Corgi Engine Sound
         ChannelMode: 0
         Channel: 0
         MMChannelDefinition: {fileID: 0}
@@ -89523,7 +89523,7 @@ Transform:
   m_GameObject: {fileID: 7743920980962615099}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.100000024, z: 0}
+  m_LocalPosition: {x: -0.010002136, y: 2.307, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -90557,7 +90557,7 @@ Transform:
   m_GameObject: {fileID: 8361553073036469797}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.30000305, y: 1.99, z: 0}
+  m_LocalPosition: {x: 0.74, y: 1.27, z: 0}
   m_LocalScale: {x: 5, y: 4, z: 4}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -90693,7 +90693,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.68, y: 0.66}
   m_EdgeRadius: 0
 --- !u!114 &8820073053555262749
 MonoBehaviour:
@@ -91384,7 +91384,7 @@ Transform:
   m_GameObject: {fileID: 9139373151340067637}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.451, y: -0.6459999, z: 0}
+  m_LocalPosition: {x: -0.273, y: 1.042, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
