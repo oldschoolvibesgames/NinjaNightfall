@@ -3660,11 +3660,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: f2e79e5318827bc4988d9a445f104bd1, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 3202725811651204304, guid: 438416b6ae1eea44c9baacafba6d1a8a,
         type: 3}
       propertyPath: m_Name
       value: GameData
+      objectReference: {fileID: 0}
+    - target: {fileID: 7287649428813801757, guid: 438416b6ae1eea44c9baacafba6d1a8a,
+        type: 3}
+      propertyPath: playerProgressData.lifeData.maxLife
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
