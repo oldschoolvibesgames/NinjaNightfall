@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4919992640808085698}
   - component: {fileID: 4304032282592703142}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: DamageFeedbacks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -498,7 +498,7 @@ GameObject:
   - component: {fileID: 7841895961243865089}
   - component: {fileID: 8865883884392859986}
   - component: {fileID: 521668585010919173}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: Art
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -622,6 +622,7 @@ GameObject:
   - component: {fileID: 8032993867897196430}
   - component: {fileID: 5817958613207847100}
   - component: {fileID: 1334640714366991945}
+  - component: {fileID: 4792249588633704439}
   m_Layer: 13
   m_Name: Enemy PatrolAndJump
   m_TagString: Untagged
@@ -1237,7 +1238,7 @@ MonoBehaviour:
   DisableOnKill: 1
   DisableModelOnKill: 1
   AutoRespawnDuration: 0
-  AutoRespawnAmount: 3
+  AutoRespawnAmount: -1
   AutoRespawnRemainingAmount: 3
   IgnoreCheckpointsAlwaysRespawn: 1
   AssociatedCheckpoints: []
@@ -1341,6 +1342,21 @@ MonoBehaviour:
   ObstaclesDetectionRaycastLength: 0.5
   ObstaclesDetectionRaycastOrigin: {x: 0.5, y: 0}
   ResetPositionOnDeath: 1
+--- !u!114 &4792249588633704439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3254722359449906798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a982a69374167245a747d698a4519ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 521668585010919173}
+  canBlockDistanceAttack: 0
+  canBlockBodyAttack: 0
 --- !u!1 &3371805620551668301
 GameObject:
   m_ObjectHideFlags: 0
@@ -1351,7 +1367,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6258691943817304013}
   - component: {fileID: 4833277056502639221}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: DeathFeedbacks
   m_TagString: Untagged
   m_Icon: {fileID: 0}

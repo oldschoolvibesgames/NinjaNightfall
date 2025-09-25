@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8341332788751477261}
   - component: {fileID: 1797987828546332123}
   - component: {fileID: 5869737759290718990}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: FrontParticles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4972,7 +4972,7 @@ GameObject:
   - component: {fileID: 1431841021860536050}
   - component: {fileID: 7179567351606289321}
   - component: {fileID: 1431012425696235764}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: MuzzleFlash
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9887,7 +9887,7 @@ GameObject:
   - component: {fileID: 4701370272350824515}
   - component: {fileID: 5107517738794448080}
   - component: {fileID: 8893442448898240284}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: SmokeParticles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14857,7 +14857,7 @@ GameObject:
   - component: {fileID: 5692207779973546507}
   - component: {fileID: 1315171968273725795}
   - component: {fileID: 6299227852559484584}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: SideParticles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19818,7 +19818,7 @@ GameObject:
   - component: {fileID: 8147841980148399485}
   - component: {fileID: 8147841980148399483}
   - component: {fileID: 8147841980148399482}
-  m_Layer: 8
+  m_Layer: 13
   m_Name: RetroCannonVertical
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19997,7 +19997,7 @@ GameObject:
   - component: {fileID: 8147841980159556352}
   - component: {fileID: 8147841980159556606}
   - component: {fileID: 4724315949129072191}
-  m_Layer: 8
+  m_Layer: 13
   m_Name: Model
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20106,7 +20106,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8147841980398489023}
   - component: {fileID: 8147841980398489020}
-  m_Layer: 8
+  m_Layer: 13
   m_Name: ShootFeedback
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20645,7 +20645,7 @@ GameObject:
   - component: {fileID: 8147841980927431024}
   - component: {fileID: 8147841980927431022}
   - component: {fileID: 8147841980927431025}
-  m_Layer: 8
+  m_Layer: 13
   m_Name: Enemy Shooter Vertical
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20740,7 +20740,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8147841981001873256}
-  m_Layer: 8
+  m_Layer: 13
   m_Name: ModelContainer
   m_TagString: Untagged
   m_Icon: {fileID: 0}

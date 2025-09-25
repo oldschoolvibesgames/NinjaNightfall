@@ -191,7 +191,7 @@ MonoBehaviour:
   LifeTime: 5
   FaceDirection: 1
   FaceMovementDirection: 0
-  Speed: 200
+  Speed: 250
   Acceleration: 0
   Direction: {x: -1, y: 0, z: 0}
   DirectionCanBeChangedBySpawner: 1
@@ -217,7 +217,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetLayers:
     serializedVersion: 2
-    m_Bits: 270592
+    m_Bits: 271104
   damageAmount: 1
   invincibilityDuration: 0.5
   isDistanceAttack: 1

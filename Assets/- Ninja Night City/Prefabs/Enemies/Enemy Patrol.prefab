@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4040829436048754}
   - component: {fileID: 50646239225542180}
   - component: {fileID: 61076355272375044}
+  - component: {fileID: 1644579925971381095}
   - component: {fileID: 114610172891758450}
   - component: {fileID: 114967894766971668}
   - component: {fileID: 114029975445629972}
@@ -20,6 +21,7 @@ GameObject:
   - component: {fileID: 114812267071887670}
   - component: {fileID: 114721613417220764}
   - component: {fileID: 114728691002572212}
+  - component: {fileID: 486508433524606958}
   m_Layer: 13
   m_Name: Enemy Patrol
   m_TagString: Untagged
@@ -118,6 +120,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.64, y: 1.01}
   m_EdgeRadius: 0
+--- !u!114 &1644579925971381095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1970212983328296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a982a69374167245a747d698a4519ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 6945485180595568291}
+  canBlockDistanceAttack: 0
+  canBlockBodyAttack: 0
 --- !u!114 &114610172891758450
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -497,6 +514,28 @@ MonoBehaviour:
   AttackRange: 1.5
   AttackPauseDuration: 1
   AttackHitbox: {fileID: 1970212983328296}
+--- !u!114 &486508433524606958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1970212983328296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df1508296b0904b1ba069c225eb6482a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RespawnOnPlayerRespawn: 1
+  RepositionToInitOnPlayerRespawn: 0
+  DisableOnKill: 1
+  DisableModelOnKill: 1
+  AutoRespawnDuration: 0
+  AutoRespawnAmount: -1
+  AutoRespawnRemainingAmount: 3
+  IgnoreCheckpointsAlwaysRespawn: 1
+  AssociatedCheckpoints: []
+  RespawnFeedback: {fileID: 0}
 --- !u!1 &808380773510876700
 GameObject:
   m_ObjectHideFlags: 0
@@ -507,7 +546,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7347072950267052994}
   - component: {fileID: 5737569975499503999}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: DamageFeedbacks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -983,7 +1022,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7832150071481179308}
   - component: {fileID: 2518969395938776627}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: DeathFeedbacks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
