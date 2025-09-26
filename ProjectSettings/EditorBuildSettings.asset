@@ -6,19 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Emerald-Huntress/Scenes/SplashScreen.unity
+    path: Assets/- NinjaNightfall/Scenes/SplashScreen.unity
     guid: 7b96552fd1198fa4eaae54a2f975645e
   - enabled: 1
-    path: Assets/_Emerald-Huntress/Scenes/LoadingScreen.unity
+    path: Assets/- NinjaNightfall/Scenes/LoadingScreen.unity
     guid: 888394d52616e5e42b3b54c3f2bbd3eb
   - enabled: 1
-    path: Assets/_Emerald-Huntress/Scenes/StartScreen.unity
+    path: Assets/- NinjaNightfall/Scenes/StartScreen.unity
     guid: b9cf7e391a5874f80a0485164885fe54
   - enabled: 1
-    path: Assets/_Emerald-Huntress/Scenes/Story/Story1.unity
+    path: Assets/- NinjaNightfall/Scenes/Story/Story1.unity
     guid: e61030973f81c5b4fb9a1dbe7268d2ae
   - enabled: 1
-    path: Assets/_Emerald-Huntress/Scenes/Levels/1.unity
+    path: Assets/- NinjaNightfall/Scenes/Levels/1.unity
     guid: 45bd91f280e995f4cba980238e7e2216
   - enabled: 1
     path: Assets/_Emerald-Huntress/Scenes/Levels/2.unity
@@ -48,7 +48,7 @@ EditorBuildSettings:
     path: Assets/_Emerald-Huntress/Scenes/Levels/10.unity
     guid: 60d760ce6e92503479fe32e39a124000
   - enabled: 1
-    path: Assets/_Emerald-Huntress/Scenes/EndGame.unity
+    path: Assets/- NinjaNightfall/Scenes/EndGame.unity
     guid: 41c985e6e3b75554f84de6bfc6fd5f29
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
